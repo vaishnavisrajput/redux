@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "username": "user1",
+            "amount": 100
+        },
+        {
+            "id": 2,
+            "username": "user2",
+            "amount": 200
+        }
+    ],
+    "bonus": [
+        {
+            "bonus": 50,
+            "points": "50pts"
+        },
+        {
+            "bonus": 40,
+            "points": "40pts"
+        }
+    ]
+}
